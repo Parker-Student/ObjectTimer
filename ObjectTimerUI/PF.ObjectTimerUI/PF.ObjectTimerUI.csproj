@@ -79,5 +79,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PF.ObjectTimer.BL\PF.ObjectTimer.BL.csproj">
+      <Project>{8c581f46-292d-4677-806b-9345aab55b46}</Project>
+      <Name>PF.ObjectTimer.BL</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
