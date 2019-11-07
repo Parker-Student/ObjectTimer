@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PF.ObjectTimerUI", "PF.ObjectTimerUI\PF.ObjectTimerUI.csproj", "{DF73EE44-A9D5-4047-9000-922914773660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PF.ObjectTimer.BL", "PF.ObjectTimer.BL\PF.ObjectTimer.BL.csproj", "{8C581F46-292D-4677-806B-9345AAB55B46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF73EE44-A9D5-4047-9000-922914773660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF73EE44-A9D5-4047-9000-922914773660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF73EE44-A9D5-4047-9000-922914773660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF73EE44-A9D5-4047-9000-922914773660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C581F46-292D-4677-806B-9345AAB55B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C581F46-292D-4677-806B-9345AAB55B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C581F46-292D-4677-806B-9345AAB55B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C581F46-292D-4677-806B-9345AAB55B46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49C5B157-2346-4278-B1E6-2A8602FF6362}
+	EndGlobalSection
+EndGlobal
